@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+html, body. ul, li {	margin: 0;	padding: 0;	}
+
+body 	{	
+			font: 0.625em/1.5em Tahoma,Verdana, Arial, sans-serif;  
+			background-color:	#5a5a5b; 
+			margin: 0px;
+			color: #dbddff;
+		}
+.all	{
+			margin :0;
+			padding-top: 200px;
+			height: 700px;
+			width: 100%;
+}
+/* header */
+.header	{	
+			margin-top: 5px; 
+			margin-bottom: 5px; 
+			background-color:	#dbddff; 
+			height: 45px; 
+		}
+/* pasek */
+
+
+
+.loginPlace	{	
+			margin: 0 auto;
+			background-color:	#5a5a5b; 
+			height: 200px;
+			width: 700px;
+		}
+
+#formAlign {
+			margin: 0 auto;
+			width: 230px;
+			display: block;
+}
+
+#formText {
+			margin: 0;
+			color: white;
+} 
+
+
+label
+{
+		width: 50px;
+		padding: 5px 0;
+		text-align: center;
+		float:left;
+		margin-right: 5px;
+		display: block
+}
+
+.submit input
+{
+			margin-right: 20px;
+			float: right;
+			font-weight: bold;
+			font-size: 1,5em;
+			color: #5a5a5b;
+			width: 152px;
+			height: 40px;
+			background: #dbddff;
+			border: 0px;
+			display: block;
+}
